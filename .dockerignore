@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+**/TestResults/
+**/.git/
+**/.vs/
+**/node_modules/
+**/.dockerignore
+**/Dockerfile
+**/Makefile
+**/README.md
